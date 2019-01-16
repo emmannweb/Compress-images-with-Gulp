@@ -19,4 +19,4 @@
  6. in the command line (Gitbash) just type "gulp", this command will process our images for compression.
  
  
- #### Plz.. don't hesitate to Leavea a question if you get stuck!
+ #### Plz.. don't hesitate to Leave  a question if you get stuck!
