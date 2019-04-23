@@ -1,4 +1,4 @@
-# Compress images with Gulp
+# Compress images with Gulp 3
 ### Fallow theses steps:
 
 1. you need to have Node install to your computer, [the link ](https://nodejs.org/en/);
